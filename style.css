@@ -1,1 +1,29 @@
 
+<!DOCTYPE html>
+<html lang=""en>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewpoint" content="width=device-width initial-scale=0.1">
+        <title>blog</title>
+        <link rel="stylesheet" href="style.css"/>
+        <link rel="icon" type ="image/png" sizes="32x32" href="C:\Users\Admin\Downloads\blog-preview-card-main.zip\blog-preview-card-main\assets\images\favicon-32x32.png">
+
+    </head>
+    <body>
+        <main class ="card">
+            <img src="file:///C:/Users/Admin/Downloads/illustration-article.svg"   alt="Article illustration" class="card-image"> 
+            <div class="card-content">
+                <span class="tag">Learning</span>
+                <p class="date">Published 21 Dec 2023</p>
+                <h2>HTML & CSS foundation</h2>
+                <p class="description">
+                    These language are the backbone of every website,defining structure,content,and presentation.
+                </p>
+                <div class="author">
+                    <img src="file:///C:/Users/Admin/Downloads/image-avatar.webp" alt="Greg Hooper">
+                    <span>Greg hooper</span>
+                </div>
+            </div>
+        </main>
+    </body>
+</html>
